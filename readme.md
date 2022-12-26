@@ -19,3 +19,5 @@ https://github.com/bradtraversy/mern-tutorial
 npm i express dotenv  colors mongoose
 npm i -D nodemon
 ===========
+development
+production
