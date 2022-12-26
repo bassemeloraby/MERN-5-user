@@ -19,7 +19,8 @@ function Header() {
 
     <header className="header">
       <div className="logo">
-        <Link to="/">GoalSetter</Link>
+  {/*<Link to="/login">GoalSetter</Link>*/}  
+        <span>GoalSetter</span>
       </div>
       <ul>
       {user ? (
